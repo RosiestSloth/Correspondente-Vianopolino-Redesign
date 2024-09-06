@@ -17,9 +17,9 @@ O objetivo deste projeto é criar um design mais intuitivo, responsivo e visualm
 
 ## Como Instalar o Projeto
 
-1. Clone o repositório em: https://github.com/RosiestSloth/Correspondente-Vianopolino-Redesign
+1. Clone o repositório em: https://github.com/RosiestSloth/Correspondente-Vianopolino-Redesign 
 2. Crie uma IDE do wordpress: https://wordpress.org/documentation/
-3. Instale o Plugin UpDraft: https://updraftplus.com/
+3. Instale o Plugin Updraft: https://updraftplus.com/
 4. Importe todos os arquivos de backup do site principal.
 5. Restaure os arquivos no site principal: **Banco de dados**, **Plugins**, **Temas**, **Envios** e **Outros**.
 
