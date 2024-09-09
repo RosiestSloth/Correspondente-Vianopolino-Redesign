@@ -4,7 +4,7 @@ Este repositório contém os arquivos para o novo design do site **Correspondent
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto é criar um design mais intuitivo, responsivo e visualmente agradável para o site **Correspondente Vianopolino**, mantendo a acessibilidade e melhorando a apresentação das notícias e informações locais.
+O objetivo deste projeto é criar um design mais intuitivo, responsivo e visualmente agradável para o público do site **Correspondente Vianopolino**, mantendo a acessibilidade e melhorando a apresentação das notícias e informações locais.
 
 ## Tecnologias Utilizadas
 
@@ -17,9 +17,10 @@ O objetivo deste projeto é criar um design mais intuitivo, responsivo e visualm
 
 ## Como Instalar o Projeto
 
-1. Clone o repositório em: https://github.com/RosiestSloth/Correspondente-Vianopolino-Redesign 
-2. Crie uma IDE do wordpress: https://wordpress.org/documentation/
-3. Instale o Plugin Updraft: https://updraftplus.com/
-4. Importe todos os arquivos de backup do site principal.
-5. Restaure os arquivos no site principal: **Banco de dados**, **Plugins**, **Temas**, **Envios** e **Outros**.
+1. Clone o repositório em: https://github.com/RosiestSloth/Correspondente-Vianopolino-Redesign
+2. Acesse o diretório backups.
+3. Crie uma IDE do wordpress: https://wordpress.org/documentation/
+4. Instale o Plugin Updraft: https://updraftplus.com/
+5. Importe todos os arquivos de backup do site principal.
+6. Restaure os arquivos no site principal: **Banco de dados**, **Plugins**, **Temas**, **Envios** e **Outros**.
 
